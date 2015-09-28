@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Entities", "HomeCinema.Entities\HomeCinema.Entities.csproj", "{8A592263-7CA3-43E9-9EBC-E62FCC07F55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Data", "HomeCinema.Data\HomeCinema.Data.csproj", "{CDA461D6-EF96-4095-952D-30A243DDEF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Services", "HomeCinema.Services\HomeCinema.Services.csproj", "{E1F95832-183B-4870-AE3B-A169109BB4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Web", "HomeCinema.Web\HomeCinema.Web.csproj", "{875A7298-FC68-43DF-809B-849A2A567564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A592263-7CA3-43E9-9EBC-E62FCC07F55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A592263-7CA3-43E9-9EBC-E62FCC07F55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A592263-7CA3-43E9-9EBC-E62FCC07F55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A592263-7CA3-43E9-9EBC-E62FCC07F55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA461D6-EF96-4095-952D-30A243DDEF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA461D6-EF96-4095-952D-30A243DDEF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA461D6-EF96-4095-952D-30A243DDEF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA461D6-EF96-4095-952D-30A243DDEF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F95832-183B-4870-AE3B-A169109BB4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F95832-183B-4870-AE3B-A169109BB4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F95832-183B-4870-AE3B-A169109BB4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F95832-183B-4870-AE3B-A169109BB4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875A7298-FC68-43DF-809B-849A2A567564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875A7298-FC68-43DF-809B-849A2A567564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875A7298-FC68-43DF-809B-849A2A567564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875A7298-FC68-43DF-809B-849A2A567564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
